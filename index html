@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-image: url("https://i.pinimg.com/originals/2b/b5/0c/2bb50cf144658b21f51ab6236e678b38.gif");
+    width="645" height="725";
+}
+
+</style>
+<body>
+
+<h1><font face="Comic Sans Ms" size="30" color="purple">Kim Taehyung</font></h1>
+<dt>He is 23 years old. His birthday is on December 30th.</dt>
+<img src="https://media.giphy.com/media/EtHHNqmrSlJXG/giphy.gif" alt="BTS" width="600" height="590">
+<figcaption>Helloo</figcaption>
+<h1><font face="Comic Snas Ms" size="30" color="purple ">Jeon Jungkook</font></h1>
+<p>
+</body>
+</html>
